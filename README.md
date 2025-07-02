@@ -1,6 +1,6 @@
 # Buffer Analysis Web Application (Streamlit)
 
-This is a fully interactive GIS buffer analysis web app built using Streamlit. It allows users to upload shapefiles and CSV files with Latitude and Longitude coordinates, perform multi-distance buffer analysis, and download the results as shapefiles or PNG images.
+This is a fully interactive GIS buffer analysis web app built using Streamlit. It allows users to upload and process shapefiles and CSV files containing Latitude and Longitude coordinates. Users can customize buffer symbols, colours, and sizes, and view a side-by-side comparison of two maps: one with the original shapefile and plotted points, and another with the generated buffers zones overlaid. The app enables multi-distance buffer analysis and provides options to download the results as shapefiles or PNG images.
 
 
 ## Features
