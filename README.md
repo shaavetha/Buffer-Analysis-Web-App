@@ -14,15 +14,11 @@ This is a fully interactive GIS buffer analysis web app built using Streamlit. I
 
 
 ## Project Structure
-myapp.py #Streamlit application
-citydata.csv #Sample CSV data with UAE city coordinates
-gadm41_ARE_1.zip #Sample shapefile of UAE boundary
-README.md #Project Overview
+- myapp.py #Streamlit application
+- citydata.csv #Sample CSV data with UAE city coordinates
+- gadm41_ARE_1.zip #Sample shapefile of UAE boundary
+- README.md #Project Overview
 
-├── myapp.py # Streamlit application
-├── citydata.csv # Sample CSV with city coordinates
-├── gadm41_ARE_1.zip # Sample shapefile (UAE Admin Boundary)
-└── README.md # Project overview
 
 ## Tools & Libraries Used
 
